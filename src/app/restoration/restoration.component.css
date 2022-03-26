@@ -1,0 +1,46 @@
+.text{
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.image{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.txt{
+  font-family: Roboto;
+  color: dimgrey;
+  margin-top: 10px;
+}
+hr.solid {
+  border-top: 1px solid #999;
+}
+.txt1{
+  font-family: Roboto;
+  font-weight: 550;
+  margin-top: 35px;
+}
+.btn {
+  position: absolute;
+  transform: translate(550%, -190%);
+  font-weight: 500;
+  color: #02A95C;
+  border-color: #02A95C;
+  font-size: 16px;
+  padding: 6px 18px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.container{
+  margin-left: 60%;
+}
+.button {
+  position: absolute;
+  font-weight: 500;
+  color: #02A95C;
+  border-color: #02A95C;
+  font-size: 16px;
+  padding: 6px 18px;
+  cursor: pointer;
+  border-radius: 8px;
+}

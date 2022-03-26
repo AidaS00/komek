@@ -1,0 +1,14 @@
+.input-group {
+  position: absolute;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+  padding-right: 265px;
+  padding-left: 845px;
+}
+.sign{
+  margin-left: 1050px;
+}
+.navbar-toggler{
+  margin-right: -10px;
+}

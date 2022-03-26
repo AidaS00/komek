@@ -1,0 +1,54 @@
+.title{
+  margin-left: -50px;
+}
+.btn1{
+  background-color: white;
+  color: black;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+.text {
+  font-size: 14px;
+  font-weight: 600
+}
+
+::placeholder {
+  font-size: 14px;
+  font-weight: 600
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif
+}
+.label{
+  margin-left: -70%;
+  margin-bottom: 5px;
+
+}
+.label1{
+  margin-left: -80%;
+  margin-bottom: 5px;
+
+}
+.label2{
+  margin-left: -70%;
+  margin-bottom: 5px;
+
+}
+.label3{
+  margin-left: -64%;
+  margin-bottom: 5px;
+
+}
+.label4{
+  margin-left: -61%;
+  margin-bottom: 5px;
+
+}
+.label5{
+  margin-left: -85%;
+  margin-bottom: 5px;
+
+}
