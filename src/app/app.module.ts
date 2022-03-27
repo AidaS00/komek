@@ -10,12 +10,14 @@ import { RestorationComponent } from './restoration/restoration.component';
 import { DonationComponent } from './donation/donation.component';
 import {FormsModule} from "@angular/forms";
 import { FooterComponent } from './footer/footer.component';
+import { AboutComponent } from './about/about.component';
 
 const appRoutes: Routes = [
   {path: '', component: MainPageComponent},
   {path: 'fundraiser', component: FundraiserComponent},
   {path: 'restoration', component: RestorationComponent},
-  {path: 'donation', component: DonationComponent}
+  {path: 'donation', component: DonationComponent},
+  {path: 'about', component: AboutComponent}
 ]
 
 @NgModule({
@@ -26,7 +28,8 @@ const appRoutes: Routes = [
     FundraiserComponent,
     RestorationComponent,
     DonationComponent,
-    FooterComponent
+    FooterComponent,
+    AboutComponent
   ],
   imports: [
     BrowserModule,
